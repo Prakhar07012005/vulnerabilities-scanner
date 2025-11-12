@@ -78,3 +78,12 @@ python scanner.py --target 192.168.1.1 --ports 22,80,443
 
 # Export results
 python scanner.py --target 192.168.1.1 --output report.html
+
+## 📸 Screenshots
+
+ Scanner Running
+![Scanner Output](7.png)
+
+### Sample Report
+![Report Example](.pptx)
+
