@@ -81,7 +81,7 @@ python scanner.py --target 192.168.1.1 --output report.html
 
 ## 📸 Screenshots
 
- ###Scanner Running
+ ### Scanner Running
 ![Scanner Output](7.png)
 
 ### Sample Report
